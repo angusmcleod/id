@@ -120,7 +120,7 @@ perl migrate_wp_user_to_oauth.pl
 
 #### User API
 
-(How to setup the User API locally)
+(How to setup the [User API](github.com/resonatecoop/user-api) locally)
 
 ### Compile
 
